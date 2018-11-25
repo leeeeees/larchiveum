@@ -6,3 +6,6 @@ folksonomy 문제는 해결.
 solr 문제 해결 진행 중. -> metadata(temporal coverage) 해결. 181105
 디지털아카이브 메인페이지 이미지 showcase용 모듈 제작 181113 Omeka-S-SimpleCarousel(Simple Carousel version 1.1.0) by Neo-Inspiration https://github.com/Neo-Inspiration/Omeka-S-SimpleCarousel
 Simpla Carousel에서 tiff파일이 보이지 않는 문제 해결중
+carousel 디자인 수정 안됨-요청要
+metadata browse의 용어는 한글로 수정해야 함
+solr 검색에서 item과 item set를 구분하는 방법이 나열식이 아니라 tab으로 구분하거나, item set는 보여주지 않거나
